@@ -1,7 +1,11 @@
 public class Hello {
     public static void  main(String[] args) {
         System.out.println("Hello java");
-        System.out.print("Hello, Khuslen");
+        boolean isAlien = false;
+        if (!isAlien){
+            System.out.println(false);
+            System.out.println("2nd false");
+        }
 
     }
 }
