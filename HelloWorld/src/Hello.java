@@ -31,7 +31,10 @@ public class Hello {
         }
 
         String makeOfCar = "Volkswagen";
-        boolean isDomestic = makeOfCar == "Volkswagen" ? true : false;
+        boolean isDomestic = makeOfCar != "Volkswagen" ? true : false;
+
+        boolean isDomestic2 = (makeOfCar == "Volkswagen");
+        System.out.println("domestic2 " + isDomestic2);
 
         if(isDomestic) {
             System.out.println("this is domestic in our country");
@@ -39,5 +42,11 @@ public class Hello {
             System.out.println("this is not domestic");
 
         }
+        int age = 20;
+        String ageText = (age >= 18) ? "old" : "young";
+        System.out.println(ageText);
+
+        String s = (isDomestic) ? "this car is domestic": "this car is not domestic";
+        System.out.println(s);
     }
 }
