@@ -7,7 +7,7 @@ public class Challenge_1 {
         System.out.println("hundred  " + hundred);
         double remainder = hundred % 40.00d;
         System.out.println("remainder " + remainder);
-        boolean isNoRemainder = (remainder == 0) ? true : false;
+        boolean isNoRemainder = (remainder == 0);
         System.out.println(isNoRemainder);
         if (isNoRemainder) {
             System.out.println("Got some reminder");
