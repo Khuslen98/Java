@@ -27,7 +27,17 @@ public class Hello {
         if (isCar) {
             System.out.println("This is not supposed to happen");
         } else if (!isCar) {
-            System.out.println("jsajjsajajs");
+            System.out.println("below here");
+        }
+
+        String makeOfCar = "Volkswagen";
+        boolean isDomestic = makeOfCar == "Volkswagen" ? true : false;
+
+        if(isDomestic) {
+            System.out.println("this is domestic in our country");
+        } else if (!isDomestic) {
+            System.out.println("this is not domestic");
+
         }
     }
 }
