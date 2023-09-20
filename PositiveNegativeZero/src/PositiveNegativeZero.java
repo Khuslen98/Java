@@ -13,7 +13,7 @@ public class PositiveNegativeZero {
         } else if (Number < 0) {
             System.out.println("Negative");
 
-        } else if (Number == 0) {
+        } else {
             System.out.println("Zero");
         }
     }
