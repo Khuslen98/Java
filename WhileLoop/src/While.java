@@ -34,5 +34,6 @@ public class While {
 
 
     }
+    public static void isEvenNumber
 
 }
