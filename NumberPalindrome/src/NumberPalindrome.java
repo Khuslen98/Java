@@ -15,6 +15,6 @@ public class NumberPalindrome {
     }
 
     public static void main(String[] args) {
-        isPalindrome(-222);
+        isPalindrome(-123456);
     }
 }
