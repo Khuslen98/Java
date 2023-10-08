@@ -27,5 +27,19 @@ public class SharedDigit {
 
     public static void main(String[] args) {
         System.out.println(hasSharedDigit(12, 43));
+        System.out.println(hasSameLastDigit(22, 23, 24));
+    }
+    public static boolean hasSameLastDigit(int para1, int para2, int para3) {
+        if (para1 >= 10 && para1 <=1000 && para2 >= 10 && para2 <=1000 && para3 >= 10 && para3 <=1000){
+            para1 = para1 % 10;
+            para2 = para2 % 10;
+            para3 = para3 % 10;
+            if (para1 == para2 || para1 == para3 || para2 == para3){
+                return true;
+            }
+            return false;
+        } else {
+            return false;
+        }
     }
 }
