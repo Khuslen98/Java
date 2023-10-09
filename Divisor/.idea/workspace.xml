@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9918eae-f103-4400-8930-b08f67b645bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Divisor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GreatestCommonDivisor.java" afterDir="false" />
-    </list>
+    <list default="true" id="a9918eae-f103-4400-8930-b08f67b645bd" name="Changes" comment="Greatest common divisor" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +45,20 @@
       <option name="presentableId" value="Default" />
       <updated>1696859211081</updated>
     </task>
+    <task id="LOCAL-00001" summary="Greatest common divisor">
+      <option name="closed" value="true" />
+      <created>1696861247543</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696861247543</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Greatest common divisor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Greatest common divisor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
