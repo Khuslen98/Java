@@ -1,6 +1,6 @@
 public class numbertowordschatgpt {
     public static void main(String[] args){
-        numberToWords(123);
+        numberToWords(10);
     }
     public static void numberToWords(int number) {
         if (number < 0) {
@@ -8,59 +8,57 @@ public class numbertowordschatgpt {
         } else if (number == 0) {
             System.out.println("Zero");
         } else {
-            int reverseNumber = reverse(number);
+            int reversedNumber = reverse(number);
             int digitCount = getDigitCount(number);
-            int reversedDigitCount = getDigitCount(reverseNumber);
+            int reversedDigitCount = getDigitCount(reversedNumber);
 
             while (reversedDigitCount > 0) {
-                int lastDigit = reverseNumber % 10;
-                reverseNumber /= 10;
+                int lastDigit = reversedNumber % 10;
 
                 switch (lastDigit) {
                     case 0:
-                        System.out.println("Zero");
+                        System.out.print("Zero ");
                         break;
                     case 1:
-                        System.out.println("One");
+                        System.out.print("One ");
                         break;
                     case 2:
-                        System.out.println("Two");
+                        System.out.print("Two ");
                         break;
                     case 3:
-                        System.out.println("Three");
+                        System.out.print("Three ");
                         break;
                     case 4:
-                        System.out.println("Four");
+                        System.out.print("Four ");
                         break;
                     case 5:
-                        System.out.println("Five");
+                        System.out.print("Five ");
                         break;
                     case 6:
-                        System.out.println("Six");
+                        System.out.print("Six ");
                         break;
                     case 7:
-                        System.out.println("Seven");
+                        System.out.print("Seven ");
                         break;
                     case 8:
-                        System.out.println("Eight");
+                        System.out.print("Eight ");
                         break;
                     case 9:
-                        System.out.println("Nine");
+                        System.out.print("Nine ");
                         break;
                     default:
                         break;
                 }
 
+                reversedNumber /= 10;
                 reversedDigitCount--;
             }
-
-            // If the original number had more digits, print "Zero" for the remaining digits.
-//            while (digitCount > getDigitCount(reverseNumber)) {
-//                System.out.println("Zero");
-//                digitCount--;
-//            }
         }
     }
+
+
+
+
 
     public static int reverse(int number) {
         int reversed = 0;
