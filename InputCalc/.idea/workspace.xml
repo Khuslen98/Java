@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3726c6fc-6765-466a-ab5f-6ec271b7c0ab" name="Changes" comment="medkue oilgohgun bna">
-      <change afterPath="$PROJECT_DIR$/../OOP/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP/OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP/src/Good.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PaintJob/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PaintJob/PaintJob.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
