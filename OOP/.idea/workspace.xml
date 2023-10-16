@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="044d4efe-c336-4f2a-85da-774fb4bdd603" name="Changes" comment="oop">
-      <change beforePath="$PROJECT_DIR$/../InputCalc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InputCalc/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleCalcOOP/src/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleCalcOOP/src/SimpleCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleCalcOOP/src/SimpleCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +28,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="java-day-28-Flour-Pack-Problem" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -40,7 +51,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "java-day-28-Flour-Pack-Problem"
+    "git-widget-placeholder": "java-day-29-OOP-Challenge"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
