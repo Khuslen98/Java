@@ -4,21 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3726c6fc-6765-466a-ab5f-6ec271b7c0ab" name="Changes" comment="medkue oilgohgun bna">
+    <list default="true" id="a4a1481b-aedb-4057-bc6f-463e5aaa7d6a" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Challenge_OOP/Challenge_OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Persona/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Persona/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Persona/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Persona/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Persona/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Persona/Persona.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Persona/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Persona/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persona.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SimpleCalcOOP/SimpleCalcOOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Challenge_OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Challenge_OOP/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Challenge_OOP/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Challenge_OOP/src/Account.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Challenge_OOP/src/Challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Challenge_OOP/src/Challenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InputCalc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InputCalc/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -38,9 +38,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
+  "associatedIndex": 7
 }]]></component>
-  <component name="ProjectId" id="2WnWhkJ0sSMJzv0lEVujPVMY3Wh" />
+  <component name="ProjectId" id="2Wqd45RSrVXxRYltR9KyIvCHugw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,16 +56,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3726c6fc-6765-466a-ab5f-6ec271b7c0ab" name="Changes" comment="" />
-      <created>1697368947876</created>
+      <changelist id="a4a1481b-aedb-4057-bc6f-463e5aaa7d6a" name="Changes" comment="" />
+      <created>1697463853460</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1697368947876</updated>
+      <updated>1697463853460</updated>
     </task>
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="medkue oilgohgun bna" />
-    <option name="LAST_COMMIT_MESSAGE" value="medkue oilgohgun bna" />
   </component>
 </project>

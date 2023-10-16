@@ -5,14 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9140d27c-2b2c-4c1a-b4fd-d1a98dbe97f7" name="Changes" comment="challenge is done">
-      <change afterPath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleCalcOOP/src/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleCalcOOP/src/SimpleCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleCalcOOP/src/SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge_OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persona/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persona/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persona/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persona/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persona/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persona/Persona.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persona/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persona/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleCalcOOP/SimpleCalcOOP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Challenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InputCalc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InputCalc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
