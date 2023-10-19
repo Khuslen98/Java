@@ -13,5 +13,6 @@ public class Main {
         anotherVariable--;
         anotherVariable--;
         System.out.println("myVariable " + anotherVariable);
+        System.out.println("Hello world from khan bank");
     }
 }
