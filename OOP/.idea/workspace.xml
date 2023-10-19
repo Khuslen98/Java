@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="044d4efe-c336-4f2a-85da-774fb4bdd603" name="Changes" comment="oop">
+      <change afterPath="$PROJECT_DIR$/../Challenge_OOP/Challenge_OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persona/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persona/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persona/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persona/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persona/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persona/Persona.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persona/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persona/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleCalcOOP/SimpleCalcOOP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenge_OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Challenge_OOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenge_OOP/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Challenge_OOP/src/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenge_OOP/src/Challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Challenge_OOP/src/Challenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InputCalc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InputCalc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="module-info" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="java-day-28-Flour-Pack-Problem" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2Wnc9YK7jIFhxZm7jC9EUMi19Dh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "java-day-29-OOP-Challenge"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="044d4efe-c336-4f2a-85da-774fb4bdd603" name="Changes" comment="" />
+      <created>1697371645269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697371645269</updated>
+    </task>
+    <task id="LOCAL-00001" summary="oop">
+      <option name="closed" value="true" />
+      <created>1697379580595</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697379580595</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="oop" />
+    <option name="LAST_COMMIT_MESSAGE" value="oop" />
+  </component>
+</project>
