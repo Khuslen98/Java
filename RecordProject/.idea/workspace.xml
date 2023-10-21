@@ -4,20 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dec2adc-1746-4304-a254-b237c909689e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RecordProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LPAStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenge_OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Challenge_OOP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../InputCalc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InputCalc/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Persona/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Persona/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8dec2adc-1746-4304-a254-b237c909689e" name="Changes" comment="Added pojo and record classes">
+      <change afterPath="$PROJECT_DIR$/../Wall/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wall/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wall/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wall/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wall/Wall.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wall/src/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wall/src/WallArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,9 +60,20 @@
       <option name="presentableId" value="Default" />
       <updated>1697885752319</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added pojo and record classes">
+      <option name="closed" value="true" />
+      <created>1697893091976</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697893091976</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added pojo and record classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added pojo and record classes" />
   </component>
 </project>
