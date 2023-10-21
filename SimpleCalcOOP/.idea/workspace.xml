@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e341184-089a-45d0-911d-f3b8f4e5a7cf" name="Changes" comment="Simple calc is done">
-      <change afterPath="$PROJECT_DIR$/../Wall/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Wall/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Wall/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Wall/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Wall/Wall.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Wall/src/Wall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Wall/src/WallArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Point/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Point/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Point/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Point/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Point/Point.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Point/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Point/src/Point.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RecordProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecordProject/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
