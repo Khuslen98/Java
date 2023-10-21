@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9140d27c-2b2c-4c1a-b4fd-d1a98dbe97f7" name="Changes" comment="challenge is done">
-      <change afterPath="$PROJECT_DIR$/Challenge_OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Persona/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Persona/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Persona/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Persona/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Persona/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Persona/Persona.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Persona/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Persona/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleCalcOOP/SimpleCalcOOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Challenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../InputCalc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InputCalc/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9140d27c-2b2c-4c1a-b4fd-d1a98dbe97f7" name="Changes" comment="constructor added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,11 +52,20 @@
       <option name="project" value="LOCAL" />
       <updated>1697460946696</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="constructor added">
+      <option name="closed" value="true" />
+      <created>1697470880279</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697470880279</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="challenge is done" />
-    <option name="LAST_COMMIT_MESSAGE" value="challenge is done" />
+    <MESSAGE value="constructor added" />
+    <option name="LAST_COMMIT_MESSAGE" value="constructor added" />
   </component>
 </project>
