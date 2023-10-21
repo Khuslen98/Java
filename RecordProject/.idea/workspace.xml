@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8dec2adc-1746-4304-a254-b237c909689e" name="Changes" comment="Added pojo and record classes">
-      <change afterPath="$PROJECT_DIR$/../Point/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Point/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Point/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Point/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Point/Point.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Point/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Point/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarpetCsot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarpetCsot/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarpetCsot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarpetCsot/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarpetCsot/CarpetCsot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarpetCsot/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarpetCsot/src/Carpet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarpetCsot/src/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarpetCsot/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Point/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/workspace.xml" afterDir="false" />
     </list>
