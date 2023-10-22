@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e341184-089a-45d0-911d-f3b8f4e5a7cf" name="Changes" comment="Simple calc is done">
+    <list default="true" id="372fe56e-aa65-491c-90e8-d314506d9d92" name="Changes" comment="carpet cost done">
       <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/modules.xml" afterDir="false" />
@@ -13,10 +13,10 @@
       <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/ComplexNumberChal.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/src/ComplexNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CarpetCsot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CarpetCsot/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Point/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RecordProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecordProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,80 +31,46 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$/.." value="java-day-29-OOP-Challenge" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
-}</component>
-  <component name="ProjectId" id="2WqXK4M6PamW7n5AeWvdL3Ou3nR" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2X4noA9LtlwfVcd8MSycJYH8JXV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "java-day-31-OOP-P1"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3e341184-089a-45d0-911d-f3b8f4e5a7cf" name="Changes" comment="" />
-      <created>1697461023910</created>
+      <changelist id="372fe56e-aa65-491c-90e8-d314506d9d92" name="Changes" comment="" />
+      <created>1697897394331</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1697461023910</updated>
+      <updated>1697897394331</updated>
     </task>
-    <task id="LOCAL-00001" summary="Simple calc is done">
+    <task id="LOCAL-00001" summary="carpet cost done">
       <option name="closed" value="true" />
-      <created>1697463317802</created>
+      <created>1697901046623</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1697463317802</updated>
+      <updated>1697901046623</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Simple calc is done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Simple calc is done" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/SimpleCalculator.java</url>
-          <line>12</line>
-          <properties class="SimpleCalculator" method="getDivisionResult">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SimpleCalculator.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SimpleCalculator.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="carpet cost done" />
+    <option name="LAST_COMMIT_MESSAGE" value="carpet cost done" />
   </component>
 </project>
