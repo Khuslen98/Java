@@ -5,15 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e341184-089a-45d0-911d-f3b8f4e5a7cf" name="Changes" comment="Simple calc is done">
-      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/ComplexNumberChal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/src/ComplexNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CarpetCsot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CarpetCsot/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComplexNumberChal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Point/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RecordProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecordProject/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
