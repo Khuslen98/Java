@@ -4,17 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bd1829f-ed13-445d-84ca-97df0e0f2713" name="Changes" comment="Point done">
-      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/ComplexNumberChal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/src/ComplexNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/src/Main.java" afterDir="false" />
+    <list default="true" id="644ae8c8-e29c-494a-ac75-12fe54ce4aa3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComplexNumberChal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CarpetCsot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CarpetCsot/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Point/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RecordProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecordProject/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -31,12 +31,17 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="java-day-30-POJO" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  "associatedIndex": 3
 }]]></component>
-  <component name="ProjectId" id="2X4hmkqV12Kk3BjzpjMuu9xx2o1" />
+  <component name="ProjectId" id="2X6tUeLvZYxPKQevoUVK9PatjFe" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -56,26 +61,15 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5bd1829f-ed13-445d-84ca-97df0e0f2713" name="Changes" comment="" />
-      <created>1697894421692</created>
+      <changelist id="644ae8c8-e29c-494a-ac75-12fe54ce4aa3" name="Changes" comment="" />
+      <created>1697961377312</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1697894421692</updated>
+      <updated>1697961377312</updated>
     </task>
-    <task id="LOCAL-00001" summary="Point done">
-      <option name="closed" value="true" />
-      <created>1697897148519</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1697897148519</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Point done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Point done" />
   </component>
 </project>

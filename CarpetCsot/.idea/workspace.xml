@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="372fe56e-aa65-491c-90e8-d314506d9d92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarpetCsot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Carpet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="372fe56e-aa65-491c-90e8-d314506d9d92" name="Changes" comment="carpet cost done">
+      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/ComplexNumberChal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/src/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Point/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RecordProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecordProject/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/workspace.xml" afterDir="false" />
@@ -46,7 +46,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "java-day-30-POJO"
+    "git-widget-placeholder": "java-day-31-OOP-P1"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,6 +58,19 @@
       <option name="presentableId" value="Default" />
       <updated>1697897394331</updated>
     </task>
+    <task id="LOCAL-00001" summary="carpet cost done">
+      <option name="closed" value="true" />
+      <created>1697901046623</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697901046623</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="carpet cost done" />
+    <option name="LAST_COMMIT_MESSAGE" value="carpet cost done" />
   </component>
 </project>

@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e341184-089a-45d0-911d-f3b8f4e5a7cf" name="Changes" comment="Simple calc is done">
-      <change afterPath="$PROJECT_DIR$/../CarpetCsot/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CarpetCsot/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CarpetCsot/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CarpetCsot/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CarpetCsot/CarpetCsot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CarpetCsot/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CarpetCsot/src/Carpet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CarpetCsot/src/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CarpetCsot/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/ComplexNumberChal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/src/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComplexNumberChal/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarpetCsot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CarpetCsot/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Point/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RecordProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecordProject/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -54,7 +54,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "java-day-30-POJO"
+    "git-widget-placeholder": "java-day-31-OOP-P1"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
