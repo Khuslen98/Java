@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bd1829f-ed13-445d-84ca-97df0e0f2713" name="Changes" comment="Point done">
-      <change afterPath="$PROJECT_DIR$/../JavaLang/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaLang/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaLang/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaLang/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaLang/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaLang/JavaLang.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaLang/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CarpetCsot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CarpetCsot/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ComplexNumberChal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ComplexNumberChal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RecordProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecordProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleCalcOOP/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5bd1829f-ed13-445d-84ca-97df0e0f2713" name="Changes" comment="Point done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "java-day-31-OOP-P1"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
