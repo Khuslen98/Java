@@ -11,8 +11,6 @@ public class Main {
         printArray(sortedArray);
     }
 
-
-
         public static int[] getIntegers(int capacity) {
 
             Scanner scanner = new Scanner(System.in);
