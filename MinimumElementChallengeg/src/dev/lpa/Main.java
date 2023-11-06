@@ -6,8 +6,9 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 //        readIntegers(6);
-        System.out.println(Arrays.toString(readElements(5)));
-
+//        System.out.println(Arrays.toString(readElements(5)));
+        int[] array = {5, 3, 2, 12, 32};
+            reverseArray(array);
     }
     private static int readInteger() {
         Scanner scanner = new Scanner(System.in);
@@ -36,4 +37,17 @@ public class Main {
         }
         return min;
     }
+
+    private static int reverseArray(int[] array) {
+        int maxIndex = array.length - 1;
+        int halfLength = array.length / 2;
+        for (int i = 0; i < halfLength; i++){
+            int temp = array[i];
+            array[i] = array[maxIndex - i];
+            array[maxIndex - i] = temp;
+            System.out.println(Arrays.toString(array));
+        }
+        return maxIndex;
+    }
+
 }
