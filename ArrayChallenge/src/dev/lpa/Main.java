@@ -4,6 +4,13 @@ import java.util.Arrays;
 import java.util.Random;
 
 public class Main {
+
+//    public static void main(String[] args) {
+//
+//        int[] myArray = {10, 35, 20, 17, 18};
+//        for (int myInt : myArray) {
+//            System.out.println("value = " + myInt);
+//        }
     public static void main(String[] args) {
         int[] unsortedArray = getRandomArray(5);
         System.out.println(Arrays.toString(unsortedArray));
@@ -30,8 +37,8 @@ public class Main {
         int temp;
         while (flag){
             flag = false;
-            for (int i = 0; i < sortedArray.length; i++){
-                if (sortedArray[i] < sortedArray[i + 1]){
+            for (int i = 0; i < sortedArray.length - 1; i++) {
+                if (sortedArray[i] < sortedArray[i + 1]) {
                     temp = sortedArray[i];
                     sortedArray[i] = sortedArray[i + 1];
                     sortedArray[i + 1] = temp;
