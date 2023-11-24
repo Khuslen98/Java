@@ -9,6 +9,9 @@ record Customer(String name, ArrayList<Double> transactions) {
                 new ArrayList<Double>(500));
         transactions.add(initialDeposit);
     }
+
+
+
 }
 public class Mainn {
     public static void main(String[] args) {
