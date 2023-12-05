@@ -5,7 +5,7 @@ public class Main {
     public static void validatePhoneNumber(
             String phoneNumber1, String phoneNumber2) {
 
-        final int numberLength = 10;
+        int numberLength = 0;
 
         // Valid in JDK 8 and later:
 
@@ -15,8 +15,8 @@ public class Main {
 
             String formattedPhoneNumber = null;
 
-            PhoneNumber(String phoneNumber){
-                // numberLength = 7;
+            PhoneNumber(String phoneNumber) {
+                int numberLength = 7;
                 String currentNumber = phoneNumber.replaceAll(
                         regularExpression, "");
                 if (currentNumber.length() == numberLength)
@@ -56,6 +56,6 @@ public class Main {
     }
 
     public static void main(String... args) {
-        validatePhoneNumber("123-456-7890", "123-456-7890");
+        validatePhoneNumber("123-456-7", "123-456-7890");
     }
 }
